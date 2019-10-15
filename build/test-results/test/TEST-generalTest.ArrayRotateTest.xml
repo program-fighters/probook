@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="generalTest.ArrayRotateTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-15T17:17:49" hostname="DESKTOP-48ESS9Q" time="0.001">
+  <properties/>
+  <testcase name="ok" classname="generalTest.ArrayRotateTest" time="0.001"/>
+  <system-out><![CDATA[Before array::[1, 2, 3, 4, 5, 6, 7]
+Rotate array till 2 number
+After Rotation array::[3, 4, 5, 6, 7, 1, 2]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
