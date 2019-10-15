@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="generalTest.ArrayCyclicRotateTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-26T11:56:18" hostname="IMP-DESK-124" time="0.006">
+  <properties/>
+  <testcase name="ok" classname="generalTest.ArrayCyclicRotateTest" time="0.006"/>
+  <system-out><![CDATA[Before array::[1, 2, 3, 4, 5, 6, 7]
+After Rotation array::[7, 1, 1, 1, 1, 1, 1]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
